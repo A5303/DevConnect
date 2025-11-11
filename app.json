@@ -2,8 +2,11 @@
   "expo": {
     "name": "DevConnect",
     "slug": "devconnect",
-    "version": "1.0.0",
-    "platforms": ["ios", "android", "web"],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "web": {
       "bundler": "webpack"
     }
