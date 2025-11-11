@@ -13,6 +13,6 @@
     }
   ],
   "buildCommand": "expo export:web",
-  "outputDirectory": "dist",
+  "outputDirectory": "web-build",
   "installCommand": "npm install"
 }
